@@ -24,7 +24,9 @@ h1{
 .Go{
     text-decoration: none;
     color: gainsboro;
-    background-color: rgb(7, 7, 7);
+    background-image: linear-gradient(rgb(10, 6, 6),green);
     padding: 10px 20px;
+    border-radius: 20px;
+    font-weight: bold;
     
 }
