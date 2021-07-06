@@ -1,0 +1,30 @@
+h1{
+    font-size: 50px;
+}
+
+.first-part{
+    display: flex;
+    
+}
+
+.half-first-part{
+ width: 50%;
+ padding-left: 10%;
+ padding-top: 5%;
+}
+.half-first-part img{
+    width: 80%;
+    padding-top: none;
+   }
+
+
+.healthy{
+    color: royalblue;
+}
+.Go{
+    text-decoration: none;
+    color: gainsboro;
+    background-color: rgb(7, 7, 7);
+    padding: 10px 20px;
+    
+}
