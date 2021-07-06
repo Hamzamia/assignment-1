@@ -30,3 +30,9 @@ h1{
     font-weight: bold;
     
 }
+.second-part{
+    display: flex;
+}
+.second-half-part{
+    width: 50%;
+}
